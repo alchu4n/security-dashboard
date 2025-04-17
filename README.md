@@ -123,6 +123,15 @@ yarn start
 
 5. 配置反向代理（如 Nginx 或 Apache）指向 Node.js 服务器
 
+## Demo
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/833aec35-c0fb-45ee-ad42-90763047ed9a" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/6d1e2e8c-3a5d-4d40-97fb-0413634041fc" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/a69e6a02-71ce-4a8f-a9d2-7056fa80844f" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/43a1b390-d4ac-4215-b9f0-0b828efd8c0e" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/4aae5191-bfae-4ab1-a031-e998cbc65827" />
+
+
+
 ## 安全评分维度和计算规则 (Security Score Dimensions and Calculation Rules)
 
 安全态势感知平台使用多维度评分系统来评估整体安全状态。以下是各个维度的评分规则：
