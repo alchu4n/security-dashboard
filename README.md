@@ -277,8 +277,7 @@ Calculation formula:
 
 ### 交流
 
-<img src="https://github.com/user-attachments/assets/0ee62820-774a-457b-a8dc-e232750e60a2" width="300" />
-
+<img src="https://github.com/user-attachments/assets/0ee62820-774a-457b-a8dc-e232750e60a2" width="300" /> <img src="https://github.com/user-attachments/assets/1f537233-9857-4980-99a4-12714df0c523" width="300" /> 
 
 
 ## 许可证 (License)
