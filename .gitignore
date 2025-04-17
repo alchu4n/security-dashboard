@@ -1,0 +1,55 @@
+# node_modules 依赖
+node_modules/
+
+# 打包输出目录（根据实际项目可能是 build、dist 或 out）
+dist/
+build/
+out/
+
+# 编译缓存
+.cache/
+tmp/
+temp/
+
+# 生产环境环境变量文件，防止敏感信息泄露
+.env
+.env.*.local
+!.env.example
+
+# 日志文件
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# vscode、WebStorm等编辑器配置
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Mac/Windows系统文件
+.DS_Store
+Thumbs.db
+
+# 覆盖 Git 忽略的内容
+!.gitignore
+
+# 打包分析结果
+report.html
+
+# 静态资源缓存
+*.local
+
+# 持久化数据
+*.sqlite
+*.db
+
+# Typescript 构建结果
+*.tsbuildinfo
+*.next
+
+# 依赖锁文件（若你不希望提交某个包管理器的锁文件，可以加上）
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
