@@ -267,7 +267,7 @@ Calculation formula:
 每个事业部的评分会根据其业务重要性和风险暴露程度进行加权，以反映在整体安全态势中的影响。
 
 ### 交流
-![image](https://github.com/user-attachments/assets/0ee62820-774a-457b-a8dc-e232750e60a2)
+![image](https://github.com/user-attachments/assets/0ee62820-774a-457b-a8dc-e232750e60a2){width=300 height=400}
 
 
 ## 许可证 (License)
